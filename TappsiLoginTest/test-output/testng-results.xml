@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="501799" started-at="2016-12-10T18:06:53Z" finished-at="2016-12-10T18:15:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="501799" started-at="2016-12-10T18:06:53Z" finished-at="2016-12-10T18:15:14Z">
+      <class name="com.tappsilogintest.LoginTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.tappsilogintest.LoginTest@27efef64]" name="Setup" is-config="true" duration-ms="1270" started-at="2016-12-10T13:06:53Z" finished-at="2016-12-10T13:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="ConfigTest()[pri:1, instance:com.tappsilogintest.LoginTest@27efef64]" name="ConfigTest" duration-ms="76436" started-at="2016-12-10T13:06:54Z" finished-at="2016-12-10T13:08:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigTest -->
+        <test-method status="PASS" signature="WrongPasswordLoginTest()[pri:2, instance:com.tappsilogintest.LoginTest@27efef64]" name="WrongPasswordLoginTest" duration-ms="59992" started-at="2016-12-10T13:08:10Z" finished-at="2016-12-10T13:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WrongPasswordLoginTest -->
+        <test-method status="PASS" signature="WrongEmailLoginTest()[pri:3, instance:com.tappsilogintest.LoginTest@27efef64]" name="WrongEmailLoginTest" duration-ms="99631" started-at="2016-12-10T13:09:10Z" finished-at="2016-12-10T13:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WrongEmailLoginTest -->
+        <test-method status="PASS" signature="BlankPasswordLoginTest()[pri:4, instance:com.tappsilogintest.LoginTest@27efef64]" name="BlankPasswordLoginTest" duration-ms="70480" started-at="2016-12-10T13:10:50Z" finished-at="2016-12-10T13:12:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankPasswordLoginTest -->
+        <test-method status="PASS" signature="BlankEmailLoginTest()[pri:5, instance:com.tappsilogintest.LoginTest@27efef64]" name="BlankEmailLoginTest" duration-ms="65900" started-at="2016-12-10T13:12:00Z" finished-at="2016-12-10T13:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BlankEmailLoginTest -->
+        <test-method status="PASS" signature="SuccessfulLoginTest()[pri:6, instance:com.tappsilogintest.LoginTest@27efef64]" name="SuccessfulLoginTest" duration-ms="77442" started-at="2016-12-10T13:13:06Z" finished-at="2016-12-10T13:14:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuccessfulLoginTest -->
+        <test-method status="PASS" signature="SuccessfulLogoutTest()[pri:7, instance:com.tappsilogintest.LoginTest@27efef64]" name="SuccessfulLogoutTest" duration-ms="39346" started-at="2016-12-10T13:14:24Z" finished-at="2016-12-10T13:15:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuccessfulLogoutTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.tappsilogintest.LoginTest@27efef64]" name="closeBrowser" is-config="true" duration-ms="11238" started-at="2016-12-10T13:15:03Z" finished-at="2016-12-10T13:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.tappsilogintest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
