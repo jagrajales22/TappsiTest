@@ -31,7 +31,7 @@ that is available on the Appium Server GUI or could be installed via npm
 ```
 npm install appium-doctor
 ```
-Be sure all is checked.
+Be sure all is checked.It is possible that this step could lead you to install a lot of things or correct JAVA_HOME or ANDROID_HOME.
 
 ### Getting your APK and install it to an emulator
 
