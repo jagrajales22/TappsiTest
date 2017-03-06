@@ -5,7 +5,7 @@ Login Automatic test with Appium for Tappsi Android passenger application in Jav
 ## Libraries needed
 
 Remember to download Appium Client Libraries from http://appium.io/ in order to connect to Appium server. It is needed to 
-download Selenium Stand Alone Serverat http://www.seleniumhq.org/
+download Selenium Stand Alone Server at http://www.seleniumhq.org/
 
 ## Prerequisites
 
@@ -35,11 +35,11 @@ Be sure all is checked.It is possible that this step could lead you to install a
 
 ### Getting your APK and install it to an emulator
 
-If you don't have a Tappsi passenger APK, you could downloaded from https://apkpure.com/ and install it to your emulator
+If you don't have a Tappsi passenger APK, you could download it from https://apkpure.com/ and install it to your emulator
 using ADB
 ```
 adb install '/path_to_your_apk.apk'
 ```
-## Having fun
+## Have fun
 
 Automatic tests could take some time to program but after never forget to have fun playing with it!
